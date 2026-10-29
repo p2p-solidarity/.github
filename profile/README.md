@@ -1,4 +1,4 @@
-<a href="https://creds.id"><img src="./creds-banner.jpg" alt="creds.id — Cred you can verify. The verifiable link-in-bio." width="100%"></a>
+<a href="https://creds.id"><img src="./creds-banner.svg" alt="creds.id — Cred you can verify. The verifiable link-in-bio." width="100%"></a>
 
 <div align="center">
 
